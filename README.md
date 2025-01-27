@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The **YouTube Auto-Subscriber Bot** is a Python-based tool that automates subscribing to YouTube channels. By utilizing Selenium, the script logs into a Gmail account, navigates to the specified YouTube channels, and subscribes to them if not already subscribed. The tool is designed for efficient and hands-free channel subscription management.
+The **YouTube Auto-Subscriber Bot** is a Python-based tool that automates subscribing to YouTube channels and helps transfer subscriptions from one account to another. By utilizing Selenium, the script logs into a Gmail account, navigates to the specified YouTube channels, and subscribes to them if not already subscribed. The tool is designed for efficient and hands-free channel subscription management.
 
 ## 🚀 Features
 
@@ -54,7 +54,7 @@ The **YouTube Auto-Subscriber Bot** is a Python-based tool that automates subscr
 
 ## 📝 Usage
 
-1. Prepare a text file with YouTube channel URLs, one URL per line.
+1. Prepare a text file with YouTube channel URLs, one URL per line. You retrieve your subscriptions from your existing account and ask https://www.perplexity.ai/ to make the text file. 
 2. Replace your Gmail credentials and the file path in the script.
 3. Run the script to log in to Gmail and subscribe to the channels automatically.
 4. The script will indicate success, existing subscriptions, or any errors during the process.
