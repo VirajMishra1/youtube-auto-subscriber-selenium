@@ -1,4 +1,4 @@
-# YouTube Auto-Subscriber Bot 🎥
+# YouTube Auto-Subscriber Bot - Selenium 🎥
 
 ## Project Description
 
