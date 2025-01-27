@@ -1,1 +1,1 @@
-# youtube-auto-subscriber-selenium-
+# youtube-auto-subscriber-selenium
